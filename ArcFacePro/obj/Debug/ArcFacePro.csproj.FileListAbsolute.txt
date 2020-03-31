@@ -1,0 +1,5 @@
+D:\01_Works\Arcface\ArcFacePro\ArcFacePro\ArcFacePro\bin\Debug\ArcFacePro.dll
+D:\01_Works\Arcface\ArcFacePro\ArcFacePro\ArcFacePro\bin\Debug\ArcFacePro.pdb
+D:\01_Works\Arcface\ArcFacePro\ArcFacePro\ArcFacePro\obj\Debug\ArcFacePro.csprojAssemblyReference.cache
+D:\01_Works\Arcface\ArcFacePro\ArcFacePro\ArcFacePro\obj\Debug\ArcFacePro.dll
+D:\01_Works\Arcface\ArcFacePro\ArcFacePro\ArcFacePro\obj\Debug\ArcFacePro.pdb
